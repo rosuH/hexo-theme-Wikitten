@@ -6,6 +6,10 @@
 
 Just change the color theme and add a little personal style.
 
+### Demo
+
+[rosu's wiki](https://wiki.rosuh.me)
+
 ## License
 
 [MIT LICENSE](./LICENSE)
